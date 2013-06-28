@@ -1,6 +1,9 @@
 kandisky-prototype-01
 =====================
 
+This is a prototype for an interactive installation.
+Visit maisongb.com for contacts or more information.
+
 Requirements:
 - Install Arduino IDE.
 - Load firmdata standard example.
