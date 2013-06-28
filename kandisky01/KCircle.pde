@@ -1,9 +1,10 @@
+// Class representing the circles.
 public class KCircle{
-  private int posX;
-  private int posY;
-  private int radius;
-  private color fill;
-  private int inputPin;
+  private int posX; // Center of the circle X
+  private int posY; // Center of the circle Y
+  private int radius; // Radius lenght
+  private color fill; // Filling color
+  private int inputPin; // Arduino pin number to check
 
   public KCircle(int posX, int posY, int radius, color fill, int inputPin){
     this.posX = posX;
